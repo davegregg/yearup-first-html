@@ -1,1 +1,3 @@
-# yearup-first-html
+# YearUp: First HTML Project
+
+by DMG
